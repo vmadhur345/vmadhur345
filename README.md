@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vmadhur345
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...web development, networking
 - 🌱 I’m currently learning ...Data structure and algorithm in java
 - 💞️ I’m looking to collaborate on ...programming
-- 📫 How to reach me ...
+- 📫 How to reach me ...vmadhur345@gmail.com
 
 <!---
 vmadhur345/vmadhur345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
