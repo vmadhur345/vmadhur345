@@ -8,7 +8,7 @@
 vmadhur345/vmadhur345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---><h1 align="center">Hi 👋, I'm Madhur verma</h1>
-<h1 align="center">Hi 👋, I'm Madhur verma</h1>
+
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 - 🔭 I have done project name [Job-Portal](https://guileless-cucurucho-62b112.netlify.app/)
