@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I have done project name [Job-Portal](https://guileless-cucurucho-62b112.netlify.app/)
+- 🔭 I have done project name [Job-Portal][Genius]
 
 - 🌱 I’m currently learning **NextJS**
 
